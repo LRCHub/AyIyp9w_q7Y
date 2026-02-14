@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "真昼の月",
+  "base_artist": "NoisyCell",
+  "createdAt": "2026-02-14T10:01:37.605328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/01_真昼の月_Suara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/02_真昼の月_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "NoisyCell",
+      "has_synced": true,
+      "path": "select/03_真昼の月_NoisyCell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/04_真昼の月_島谷ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "Guitar Vader",
+      "has_synced": false,
+      "path": "select/05_真昼の月_Guitar_Vader.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_真昼の月_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/07_真昼の月_島谷ひとみ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_真昼の月_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "真昼の月",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/09_真昼の月_島谷ひとみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真昼の月",
+      "artist": "NoisyCell",
+      "has_synced": false,
+      "path": "select/pl_01_真昼の月_NoisyCell.txt"
+    }
+  ]
+}
